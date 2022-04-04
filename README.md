@@ -1,5 +1,6 @@
 # Light Anti-Cheat Windows
  Anti Cheat for Unity Games (Could potentionally used for any game engine)
+ Just as a quick disclamer: This thing is very bad and contains lots of bugs that I won't fix. I won't suggest using it but bad things are always better than nothing.
  
  # Features
 - Speed Hack Detection (still in work)
